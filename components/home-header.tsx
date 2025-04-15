@@ -12,16 +12,16 @@ export function HomeHeader() {
         </Link>
 
         <nav className="hidden md:flex items-center gap-8">
-          <Link href="#" className="text-gray-600 hover:text-blue-700 transition-colors">
+          <Link href="#features" className="text-gray-600 hover:text-blue-700 transition-colors">
             Fonctionnalités
           </Link>
-          <Link href="#" className="text-gray-600 hover:text-blue-700 transition-colors">
+          <Link href="#marche" className="text-gray-600 hover:text-blue-700 transition-colors">
             Comment ça marche
           </Link>
-          <Link href="#" className="text-gray-600 hover:text-blue-700 transition-colors">
+          <Link href="#temo" className="text-gray-600 hover:text-blue-700 transition-colors">
             Témoignages
           </Link>
-          <Link href="#" className="text-gray-600 hover:text-blue-700 transition-colors">
+          <Link href="#faq" className="text-gray-600 hover:text-blue-700 transition-colors">
             FAQ
           </Link>
         </nav>
