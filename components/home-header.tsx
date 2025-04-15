@@ -6,7 +6,7 @@ export function HomeHeader() {
       <div className="max-w-6xl mx-auto flex justify-between items-center">
         <Link href="/" className="flex items-center gap-2">
           <div className="w-10 h-10 rounded-full bg-gradient-to-r from-blue-600 to-emerald-600 flex items-center justify-center text-white font-bold text-xl">
-            CF
+            AGJ
           </div>
           <span className="text-xl font-bold text-blue-900">FinanceVirtuel</span>
         </Link>
