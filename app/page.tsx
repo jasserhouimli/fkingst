@@ -273,7 +273,7 @@ export default function Home() {
               <div className="bg-gradient-to-br from-gray-50 to-white p-6 rounded-xl border border-gray-100 shadow-sm">
                 <div className="flex items-center mb-4">
                   <div className="w-12 h-12 bg-blue-100 rounded-full flex items-center justify-center mr-4">
-                    <span className="text-blue-600 font-bold">M</span>
+                    <span className="text-blue-600 font-bold">J</span>
                   </div>
                   <div>
                     <h4 className="font-semibold">Jasser Houimli</h4>
@@ -307,7 +307,7 @@ export default function Home() {
               <div className="bg-gradient-to-br from-gray-50 to-white p-6 rounded-xl border border-gray-100 shadow-sm">
                 <div className="flex items-center mb-4">
                   <div className="w-12 h-12 bg-emerald-100 rounded-full flex items-center justify-center mr-4">
-                    <span className="text-emerald-600 font-bold">T</span>
+                    <span className="text-emerald-600 font-bold">G</span>
                   </div>
                   <div>
                     <h4 className="font-semibold">Ghassen Khaldi</h4>
@@ -341,7 +341,7 @@ export default function Home() {
               <div className="bg-gradient-to-br from-gray-50 to-white p-6 rounded-xl border border-gray-100 shadow-sm">
                 <div className="flex items-center mb-4">
                   <div className="w-12 h-12 bg-teal-100 rounded-full flex items-center justify-center mr-4">
-                    <span className="text-teal-600 font-bold">S</span>
+                    <span className="text-teal-600 font-bold">A</span>
                   </div>
                   <div>
                     <h4 className="font-semibold">Adem Jlassi</h4>
