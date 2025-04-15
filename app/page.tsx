@@ -276,8 +276,8 @@ export default function Home() {
                     <span className="text-blue-600 font-bold">M</span>
                   </div>
                   <div>
-                    <h4 className="font-semibold">Marie Dupont</h4>
-                    <p className="text-sm text-gray-500">Entrepreneure</p>
+                    <h4 className="font-semibold">Jasser Houimli</h4>
+                    <p className="text-sm text-gray-500">Ingénieur</p>
                   </div>
                 </div>
                 <p className="text-gray-600 italic">
@@ -310,7 +310,7 @@ export default function Home() {
                     <span className="text-emerald-600 font-bold">T</span>
                   </div>
                   <div>
-                    <h4 className="font-semibold">Thomas Martin</h4>
+                    <h4 className="font-semibold">Ghassen Khaldi</h4>
                     <p className="text-sm text-gray-500">Ingénieur</p>
                   </div>
                 </div>
@@ -344,8 +344,8 @@ export default function Home() {
                     <span className="text-teal-600 font-bold">S</span>
                   </div>
                   <div>
-                    <h4 className="font-semibold">Sophie Bernard</h4>
-                    <p className="text-sm text-gray-500">Médecin</p>
+                    <h4 className="font-semibold">Adem Jlassi</h4>
+                    <p className="text-sm text-gray-500">Ingénieur</p>
                   </div>
                 </div>
                 <p className="text-gray-600 italic">
