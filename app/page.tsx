@@ -202,7 +202,7 @@ export default function Home() {
         </section>
 
         {/* How It Works */}
-        <section className="py-16 bg-gradient-to-br from-blue-50 to-white">
+        <section id="marche" className="py-16 bg-gradient-to-br from-blue-50 to-white">
           <div className="max-w-6xl mx-auto px-4">
             <div className="text-center mb-12">
               <h2 className="text-3xl font-bold text-blue-900 mb-4">Comment ça marche</h2>
@@ -259,7 +259,7 @@ export default function Home() {
         </section>
 
         {/* Testimonials */}
-        <section className="py-16 bg-white">
+        <section id="temo" className="py-16 bg-white">
           <div className="max-w-6xl mx-auto px-4">
             <div className="text-center mb-12">
               <h2 className="text-3xl font-bold text-blue-900 mb-4">Ce que disent nos utilisateurs</h2>
@@ -393,7 +393,7 @@ export default function Home() {
         </section>
 
         {/* FAQ Section */}
-        <section className="py-16 bg-white">
+        <section id="faq" className="py-16 bg-white">
           <div className="max-w-4xl mx-auto px-4">
             <div className="text-center mb-12">
               <h2 className="text-3xl font-bold text-blue-900 mb-4">Questions fréquentes</h2>
